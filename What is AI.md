@@ -1,5 +1,6 @@
 # What is AI?
-![image](https://github.com/user-attachments/assets/4d270749-d48c-4f06-a0b8-1bdf256e57d6)
+![image](https://github.com/user-attachments/assets/56ca5f22-ffbe-42b7-a246-9b8efb4cff04)
+
 ## 1: 你认为的AI是什么？
 AI is basically about making machines smart enough to do stuff that would normally need a human brain, like learning, solving problems, and thinking. It includes things like teaching machines to learn, understand language, and even recognize pictures.
 ***
