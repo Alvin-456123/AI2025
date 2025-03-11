@@ -9,7 +9,7 @@ Traditional AI:
 # Q2: How can GAI be useful in education, healthcare, and business?
 
 ## In Education:
-Personalized Learning: GAI can create custom lessons, quizzes, and exercises based on a student’s progress and needs, helping to tailor learning experiences to individual students.
+### Personalized Learning: GAI can create custom lessons, quizzes, and exercises based on a student’s progress and needs, helping to tailor learning experiences to individual students.
 Content Creation: Teachers can use GAI to generate study materials, summaries, or even creative content like stories, exercises, and examples in different subjects.
 Tutoring: AI-powered tutors can provide students with real-time feedback, explanations, and even answer questions 24/7, making learning more accessible.
 Language Learning: GAI can generate practice exercises, conversations, or vocabulary drills for students learning new languages.
