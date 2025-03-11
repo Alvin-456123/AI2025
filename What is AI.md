@@ -11,7 +11,7 @@ GANs (Generative Adversarial Networks) is a machine learning framework and a lea
 GANs (Generative Adversarial Networks) have two parts: a generator that makes fake data and a discriminator that figures out if it's real or not, getting better over time. The Transformer, made by Google, is another model that’s great at handling things like language, making both super useful for creating realistic images and generating text.
 ***
 # MISSION 3
-![image](https://github.com/user-attachments/assets/bbf61359-8926-4971-b520-9eb93e8fae34)
+![image](https://github.com/user-attachments/assets/eef9fb23-90a6-428f-a6c2-27f427b58485)
 
 ## How will AI change our lives in the next 10 years? (AI 在未來 10 年會如何改變我們的生活？)
 In the next 10 years, AI will automate routine tasks, improve healthcare through faster diagnostics, and revolutionize transportation with self-driving cars. It will also personalize education and entertainment, making them more tailored to individual needs. At the same time, AI will raise important challenges around ethics, privacy, and job displacement, requiring careful management to ensure its benefits are shared fairly.
