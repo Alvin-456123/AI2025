@@ -1,13 +1,13 @@
 # What is AI?
 ![image](https://github.com/user-attachments/assets/56ca5f22-ffbe-42b7-a246-9b8efb4cff04)
 
-## 1: 你认为的AI是什么？
+## 1: 你認為的AI是什麼？
 AI is basically about making machines smart enough to do stuff that would normally need a human brain, like learning, solving problems, and thinking. It includes things like teaching machines to learn, understand language, and even recognize pictures.
 ***
-## 2： 什么是GANs？
+## 2： 什麼是GANs？
 GANs (Generative Adversarial Networks) is a machine learning framework and a leading approach in generative artificial intelligence.
 ***
-## 3: 什么是transfomer?
+## 3: 什麼是transfomer?
 GANs (Generative Adversarial Networks) have two parts: a generator that makes fake data and a discriminator that figures out if it's real or not, getting better over time. The Transformer, made by Google, is another model that’s great at handling things like language, making both super useful for creating realistic images and generating text.
 ***
 # MISSION 3
