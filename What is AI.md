@@ -1,5 +1,6 @@
 # What is AI?
-![image](https://github.com/user-attachments/assets/ffbd67c7-eb04-40ca-979a-4561e75e053a)
+![image](https://github.com/user-attachments/assets/4d270749-d48c-4f06-a0b8-1bdf256e57d6)
+
 
 
 ## 1: 你认为的AI是什么？
